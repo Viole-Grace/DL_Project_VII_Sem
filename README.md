@@ -3,11 +3,11 @@ CityFlow Simulation - for 2x3 and 5x5 grid using multi agent reinforcement learn
 
 Simulation and running done as part of the program for DL, Sem VII
 
-### Credits to CityFlow: ![CityFlow](https://github.com/cityflow-project/CityFlow)
+### Credits to CityFlow: (https://github.com/cityflow-project/CityFlow)
 
 ## Screenshots:
 
 - ![Simulation](front.png)
 - ![Sim 2](sim.png)
 - ![Sim 3](sim1.png)
-- ![Sim 4](sim2.png)
+- ![Sim 4](sim3.png)
