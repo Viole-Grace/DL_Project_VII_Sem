@@ -1,5 +1,5 @@
 # DL_Project_VII_Sem
-CityFlow Simulation - for 2x3 and 5x5 grid using multi agent reinforcement learning
+CityFlow Simulation - for 1x1 and 3x2 grid using multi agent reinforcement learning
 
 Simulation and running done as part of the program for DL, Sem VII
 
